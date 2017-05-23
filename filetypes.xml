@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="AutoDataStorage" type="CLASS" />
+      <mapping pattern="ProductNamedJdbcTemplateDaoImplTest" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
