@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.itis:itis-vk-api:0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/itis/itis-vk-api/0.1/itis-vk-api-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/itis/itis-vk-api/0.1/itis-vk-api-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/itis/itis-vk-api/0.1/itis-vk-api-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
