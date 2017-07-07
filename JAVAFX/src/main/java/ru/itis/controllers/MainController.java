@@ -11,19 +11,6 @@ import org.springframework.web.client.RestTemplate;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
-
- * 26.05.2017
-
- * MainController
-
- *
-
- * @author Ayupov Ayaz (First Software Engineering Platform)
-
- * @version v1.0
-
- */
 
 public class MainController {
 @FXML
